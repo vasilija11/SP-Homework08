@@ -12,5 +12,5 @@ which will show the procedure you used to find the answer.
 
 **Note:** Answers should be based on `WorldCupMatches.csv` file.
 
-**Note:** You might want to use `pandas` module to speedup the 
+**Note:** You might want to use `pandas` module to speed up the 
 process, however you are free to use any other approach.
