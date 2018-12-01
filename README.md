@@ -15,5 +15,5 @@ which will show the procedure you used to find the answer.
 **Note:** You might want to use `pandas` module to speed up the 
 process, however you are free to use any other approach.
 
-Deadline for submission is 21st December 2018. 
+Deadline for submission is 15th December 2018. 
 In order to get your homework review you will need to fork this project.
